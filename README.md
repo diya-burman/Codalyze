@@ -17,7 +17,7 @@ Whether you're a beginner looking for coding guidance or an experienced develope
 - **Styling:** Tailwind CSS
 - **Backend:** Node.js with Express.js
 - **AI Processing:** Google Gemini Flash 2.0
-- **Deployment:** Render
+- **Deployment:** Render 
 
 ## 📷 Preview
 
