@@ -52,7 +52,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>AI CodeX</h1>
+        <h1>Codalyze</h1>
       </header>
       <main>
         <div className="left">
@@ -92,10 +92,10 @@ function App() {
         {/* Contact Dropdown */}
         {showContacts && (
           <div className="contact-menu">
-            <a href="https://www.linkedin.com/in/vtandon1204/" target="_blank" rel="noopener noreferrer" className="linkedin">
+            <a href="https://www.linkedin.com/in/diya-burman-13981b262/" target="_blank" rel="noopener noreferrer" className="linkedin">
               <FaLinkedin /> LinkedIn
             </a>
-            <a href="https://github.com/vtandon1204" target="_blank" rel="noopener noreferrer" className="github">
+            <a href="https://github.com/diya-burman" target="_blank" rel="noopener noreferrer" className="github">
               <FaGithub /> GitHub
             </a>
           </div>

@@ -12,7 +12,7 @@ body,
 }
 
 header {
-  background-color: rgb(136, 136, 230);
+  background-color: rgb(93, 105, 242);
   color: #000000;
   text-align: center;
   padding: 15px;
@@ -69,7 +69,7 @@ main .left .review {
   position: absolute;
   bottom: 1rem;
   right: 2rem;
-  background-color: rgb(136, 136, 230);
+  background-color: rgb(93, 105, 242);
   color: #000000;
   padding: 0.5rem 2rem;
   font-weight: 500;
@@ -105,7 +105,7 @@ main .left .review {
   position: fixed;
   bottom: 19px;
   right: 32px;
-  background-color: rgb(136, 136, 230);
+  background-color: rgb(93, 105, 242);
   color: #000;
   border: none;
   padding: 12px 15px;
@@ -118,7 +118,7 @@ main .left .review {
 }
 
 .contact-btn:hover {
-  background-color: rgb(110, 110, 210);
+  background-color: rgb(93, 105, 242);
 }
 
 .contact-menu {

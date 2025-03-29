@@ -1,6 +1,6 @@
-# AI CodeX
+# Codalyze
 
-*AI CodeX* is an intelligent, automated code analysis tool designed to help developers improve their code quality. It leverages AI to detect inefficiencies, enforce best practices, and provide optimization suggestions. 
+*Codalyze* is an intelligent, automated code analysis tool designed to help developers improve their code quality. It leverages AI to detect inefficiencies, enforce best practices, and provide optimization suggestions. 
 
 Whether you're a beginner looking for coding guidance or an experienced developer aiming for cleaner, more efficient code, this tool streamlines the review process with real-time feedback.
 
@@ -49,7 +49,7 @@ Whether you're a beginner looking for coding guidance or an experienced develope
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vtandon1204/ai-code-reviewer.git
+   git clone https://github.com/diya-burman/Codalyze.git
    cd frontend
    ```
 2. Install dependencies:
@@ -77,7 +77,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 📧 Contact
 
-For any inquiries, reach out to [Vaibhav Tandon](https://github.com/vtandon1204).
+For any inquiries, reach out to [Diya Burman](https://github.com/diya-burman).
 
 ## 📜 License
 
@@ -85,4 +85,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-⭐ If you like this project, don't forget to give it a star on [GitHub](https://github.com/vtandon1204/ai-code-reviewer)! 🚀
+⭐ If you like this project, don't forget to give it a star on [GitHub](https://github.com/diya-burman/Codalyze)! 🚀
