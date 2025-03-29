@@ -22,10 +22,10 @@ Whether you're a beginner looking for coding guidance or an experienced develope
 ## 📷 Preview
 
 ### Code Review
-<img src="frontend\public\images\image1.png" width="600" />
+<img src="ai-code-reviewer-main\frontend\public\images\image1.png" width="600" />
 
 ### Recommended Fix
-<img src="frontend\public\images\image2.png" width="400" />
+<img src="ai-code-reviewer-main\frontend\public\images\image2.png" width="400" />
 
 ## 📖 Installation & Usage
 
